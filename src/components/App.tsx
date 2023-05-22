@@ -3,7 +3,7 @@ import { Info } from "./Info";
 import { Gentlemen } from "./Gentlemen";
 
 export function App() {
-  const title = "Señoros";
+  const title = "SEÑOROS";
   return (
     <>
       <Info title={title}></Info>
