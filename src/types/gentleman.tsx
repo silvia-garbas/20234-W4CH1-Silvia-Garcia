@@ -1,4 +1,4 @@
-export type GentlemanData = {
+export type Gentleman = {
   id: number;
   name: string;
   status: string;
